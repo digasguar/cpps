@@ -1,6 +1,6 @@
 
-NAME = Weapon
-SRCS = main.cpp HumanA.cpp Weapon.cpp HumanB.cpp
+NAME = Sed_is_for_losers
+SRCS = main.cpp
 OBJS = $(SRCS:.cpp=.o)
 
 CC = c++
